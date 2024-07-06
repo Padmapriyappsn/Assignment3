@@ -1,0 +1,15 @@
+{
+  "name": "web700-app",
+  "version": "1.0.0",
+  "description": "Assignment3 EXPRESS AND HTML",
+  "main": "server.js",
+  "scripts": {
+    "test": "Hello",
+    "start": "node server.js"
+  },
+  "author": "Padmapriya PalaniSwamiNathan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
